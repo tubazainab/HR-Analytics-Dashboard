@@ -41,3 +41,25 @@ The dataset contains employee-level information used to analyze employee attriti
 The dataset is used to identify patterns and factors related to employee attrition.
 
 
+## Dataset Description
+
+The dataset contains employee-level information used to analyze employee attrition.
+
+The dataset includes 50 employee records and 14 columns.
+
+Key columns include:
+
+- Employee ID
+- Age
+- Gender
+- Department
+- Job Role
+- Monthly Income
+- Years at Company
+- Job Satisfaction
+- Marital Status
+- Overtime
+- Work-Life Balance
+- Joining Date
+- Education
+- Attrition
