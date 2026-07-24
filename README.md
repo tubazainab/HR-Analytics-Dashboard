@@ -63,3 +63,19 @@ Key columns include:
 - Joining Date
 - Education
 - Attrition
+
+## Data Cleaning
+
+The dataset was cleaned and prepared using Power Query in Power BI.
+
+The following data quality checks were performed:
+
+- Checked for null values
+- Checked for duplicate Employee IDs
+- Removed unnecessary columns
+- Verified and corrected data types
+- Ensured Monthly Income is in numeric format
+- Ensured Age is in whole number format
+- Converted Joining Date to date format
+- Verified Attrition values as Yes/No
+
