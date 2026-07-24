@@ -120,3 +120,17 @@ The dashboard provides the following key insights:
 - HR Manager has the highest attrition count among the job roles.
 - Attrition is higher among single employees compared to married employees.
 - The dashboard helps identify the relationship between job satisfaction and employee attrition.
+
+## Business Recommendations
+
+Based on the analysis, the following recommendations can help reduce employee attrition:
+
+- Review overtime policies and monitor employees who work excessive overtime.
+- Focus on improving employee retention in the HR department.
+- Identify the reasons behind higher attrition among HR Managers.
+- Conduct employee satisfaction surveys to understand employee concerns.
+- Provide better career growth and development opportunities.
+- Monitor employee workload and work-life balance.
+- Develop targeted retention strategies for employees who are at higher risk of leaving.
+
+
