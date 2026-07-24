@@ -79,3 +79,34 @@ The following data quality checks were performed:
 - Converted Joining Date to date format
 - Verified Attrition values as Yes/No
 
+## DAX Measures
+
+The following DAX measures were created to calculate key HR metrics:
+
+### Total Employees
+
+```DAX
+Total Employees = COUNTROWS(HR_Analytics)
+```
+Attrition Count =
+CALCULATE(
+    COUNTROWS(HR_Analytics),
+    HR_Analytics[Attrition] = "Yes"
+)
+
+Attrition Rate =
+DIVIDE(
+    [Attrition Count],
+    [Total Employees],
+    0
+)
+
+Average Job Satisfaction =
+AVERAGE(HR_Analytics[Job Satisfaction])
+
+Average Monthly Income =
+AVERAGE(HR_Analytics[Monthly Income])
+
+These measures were used to create KPI cards and analyze employee attrition patterns across different categories.
+
+
