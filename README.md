@@ -146,3 +146,9 @@ Based on the analysis, the following recommendations can help reduce employee at
 - Data Cleaning
 - Data Visualization
 - HR Analytics
+
+## Project Outcome
+
+This project helped analyze employee attrition patterns and identify factors that may influence employee turnover.
+
+The dashboard provides HR teams with an interactive view of key metrics and helps them make data-driven decisions related to employee retention.
