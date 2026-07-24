@@ -109,4 +109,14 @@ AVERAGE(HR_Analytics[Monthly Income])
 
 These measures were used to create KPI cards and analyze employee attrition patterns across different categories.
 
+## Key Insights
 
+The dashboard provides the following key insights:
+
+- The overall employee attrition rate is 30%.
+- 15 out of 50 employees have left the company.
+- Employees working overtime show higher attrition compared to employees who do not work overtime.
+- The HR department has the highest attrition count among the departments.
+- HR Manager has the highest attrition count among the job roles.
+- Attrition is higher among single employees compared to married employees.
+- The dashboard helps identify the relationship between job satisfaction and employee attrition.
