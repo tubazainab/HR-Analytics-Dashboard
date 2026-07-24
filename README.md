@@ -136,3 +136,13 @@ Based on the analysis, the following recommendations can help reduce employee at
 ## Dashboard Preview
 
 ![HR Analytics Dashboard](HR_Analytics_Dashboard.png)
+
+## Tools & Technologies
+
+- Power BI
+- Power Query
+- DAX
+- Microsoft Excel
+- Data Cleaning
+- Data Visualization
+- HR Analytics
