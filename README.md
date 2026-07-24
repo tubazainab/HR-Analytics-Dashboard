@@ -133,4 +133,6 @@ Based on the analysis, the following recommendations can help reduce employee at
 - Monitor employee workload and work-life balance.
 - Develop targeted retention strategies for employees who are at higher risk of leaving.
 
+## Dashboard Preview
 
+![HR Analytics Dashboard](HR_Analytics_Dashboard.png)
